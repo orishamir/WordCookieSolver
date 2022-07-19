@@ -1,9 +1,10 @@
 ### About the Game
 The game [Word Cookies](https://play.google.com/store/apps/details?id=com.bitmango.go.wordcookies) 
 is a game where you are given `n` letters and are instructed to produce varying words of varying lengths from the given letters.   
-For example:
+For example:   
+
 ![Example](https://play-lh.googleusercontent.com/S1Bauc7lX4YRMXConNIRDeY0ICvVpXVviHeE66BS3bhcE9PjQhvVyQeUtLbDekb_iA)
-   
+       
 In this example, `n=5` and you need to construct different words, like in the image.
 
 ### My solution
